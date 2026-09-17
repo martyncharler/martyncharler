@@ -8,7 +8,7 @@ I've spent the last decade turning distributed-ledger and cryptographic ideas in
 **Previously**
 
 - **Teranode Group** — Technical Manager, Exploration: took new use cases from idea to pilot (supply-chain automation, carbon-credit infrastructure)
-- **nChain** — Technical Product Lead: led teams of 6–8 engineers delivering the BSV Network Operations Centre, the Alert Key Generator, and a sovereign layer-2 network with tokenisation (demoed at the Digital Pound Foundation CBDC Conference 2024); co-designed the Teranode node software
+- **nChain** — Technical Product Lead: led teams of 6–8 engineers delivering the BSV Network Operations Centre, the Alert Key Generator, and a sovereign layer-2 network with tokenisation (demoed at the Digital Pound Foundation CBDC Conference 2024); worked on the Teranode node software as Technical Archjitect
 - **SophiaTX / Equidato** — Co-founder & CTO: Graphene-based blockchain for business with SAP integration
 - **Octopoda Consulting** — Founder: SAP Business One consulting and cloud
 
