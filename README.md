@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Martyn 👋
 
-<!--
-**martyncharler/martyncharler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Venture Partner – Engineering at [Lemma Ventures](https://lemma.ventures)** — verification infrastructure and applied cryptography.
+Based in Switzerland.
 
-Here are some ideas to get you started:
+I've spent the last decade turning distributed-ledger and cryptographic ideas into systems that run in production — as a founder, CTO and technical product lead.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Previously**
+
+- **Teranode Group** — Technical Manager, Exploration: took new use cases from idea to pilot (supply-chain automation, carbon-credit infrastructure)
+- **nChain** — Technical Product Lead: led teams of 6–8 engineers delivering the BSV Network Operations Centre, the Alert Key Generator, and a sovereign layer-2 network with tokenisation (demoed at the Digital Pound Foundation CBDC Conference 2024); co-designed the Teranode node software
+- **SophiaTX / Equidato** — Co-founder & CTO: Graphene-based blockchain for business with SAP integration
+- **Octopoda Consulting** — Founder: SAP Business One consulting and cloud
+
+**What I work with**
+
+Rust · TypeScript · Go · Bitcoin Script · cryptographic protocols · scalable node & transaction infrastructure
+
+**Talk to me about** verification infrastructure, applied cryptography, and early-stage deep-tech engineering.
+
+📫 [LinkedIn](https://www.linkedin.com/in/martyncharler) · [Lemma Ventures](https://lemma.ventures)
