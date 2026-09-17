@@ -18,4 +18,4 @@ Rust · TypeScript · Go · Bitcoin Script · cryptographic protocols · scalabl
 
 **Talk to me about** verification infrastructure, applied cryptography, and early-stage deep-tech engineering.
 
-📫 [LinkedIn](https://www.linkedin.com/in/martyncharler) · [Lemma Ventures](https://lemma.ventures)
+📫 [LinkedIn](https://www.linkedin.com/in/martynharler) · [Lemma Ventures](https://lemma.ventures)
